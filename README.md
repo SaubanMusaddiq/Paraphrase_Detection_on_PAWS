@@ -9,7 +9,7 @@ Below are two examples from the dataset:
 | (2) | Katz was born in Sweden in 1947 and moved to New York City at the age of 1.      | Katz was born in 1947 in Sweden and moved to New York at the age of one.   | 1     |
 
 
-https://github.com/google-research-datasets/paws
+https://github.com/google-research-datasets/paws </br>
 https://arxiv.org/abs/1904.01130
 
 

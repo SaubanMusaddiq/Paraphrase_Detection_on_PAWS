@@ -17,4 +17,6 @@ Used a bert base model with a classification layer on top available in the [Hugg
 
 Analysed the errors this model was making using the pairs it classified wrongly (in 'wrongClassifications.tsv') and found out that the model had high confidence for wrongly classified data as well so there wasn't a margin below which we could assert uncertainty.
 
+Explored alternate models like a KNN based model and a BERT sentence embedding model that matched the performance with the BERT Model.
+
 A report containing our findings are added [here](https://github.com/SaubanMusaddiq/Paraphrase_Detection_on_PAWS/blob/master/Phase1%20Report.pdf).
